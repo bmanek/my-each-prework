@@ -16,3 +16,6 @@ def my_each(list)
   list
 # closes the function definition
 end
+
+# wow, adding a ton of comments really does make the
+# whole thing a lot harder to read
